@@ -11,7 +11,7 @@
 使用的图片如下：
 
 - main.md
-	- 1C51938D-90CD-40C2-A6BB-462DA7CBD212.png: 多重人格手册 Manual on Plurality Ver 1.0基础版 2022.2.16 檬虎 Nighten1C51938D-90CD-40C2-A6BB-462DA7CBD212.png
+	- 1C51938D-90CD-40C2-A6BB-462DA7CBD212.png: 多重人格手册 Manual on Plurality Ver 1.0基础版 2022.2.16 檬虎 Nighten
 - 01.md
 	- 053B71D1-80F6-4EB6-BBBE-0ED1F8F0F2B9.jpg: 宣言 Declaration
 	- 86DB5885-4889-49C4-806F-D034D00DBD51.jpg: 简介 Synopsis
