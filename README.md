@@ -2,7 +2,7 @@
 
 这是《多重人格手册》的Markdown记录。
 
-记录时参考[多重人格手册Ver1.0-檬虎 (1).pdf](raw.pdf "raw.pdf")和[多重人格手册Ver1.0 -檬虎.docx](raw.docx "raw.docx")。
+记录时参考[多重人格手册Ver1.0-檬虎 \(1\).pdf](raw.pdf "raw.pdf")和[多重人格手册Ver1.0 -檬虎.docx](raw.docx "raw.docx")。
 
 若要开始阅读，可以[点此前往起始页](main.md "main.md")，但GitHub的原始显示服务似乎已经寄了，所以建议下载下来以查看图片。
 
