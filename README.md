@@ -11,6 +11,7 @@
 在目录中没有列出的内容如下：
 
 - \[0-2\][多重人格手册·参考文献](02.md)
+- [反馈](feedback.md "feedback.md")
 
 使用的图片内容如下：
 
@@ -20,5 +21,7 @@
 	- 053B71D1-80F6-4EB6-BBBE-0ED1F8F0F2B9.jpg: 宣言 Declaration
 	- 86DB5885-4889-49C4-806F-D034D00DBD51.jpg: 简介 Synopsis
 	- 8E9417B0-52A2-4514-A4D0-8305A21DDE61.jpg: 致谢 Thanks
+- author.md
+	- A9F029C7-AD80-4474-8C6F-2EFD336671C7.jpg: icon
 
 记录没有完成。如有格式问题与其联系我不如先自行修改。内容上本记录除原作者提出外都不应批准修改。
